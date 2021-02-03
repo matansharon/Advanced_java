@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=tempYear()
+comment0.text=\r\n\ tempYear\ Constructor\ theat\ will\ create\ the\ frame\ and\ initialized\ all\ the\ instance\ variabels\r\n\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Method\ paintComponent\ is\ the\ method\ that\ display\ the\ appliction\ and\ draw\ it\ to\ the\ frame.\r\n\r\n\ @param\ g\ A\ parameter\ from\ the\ Graphics\ library\r\n
+comment2.params=arr
+comment2.target=void\ findMinMax(int[])
+comment2.text=\r\n\ Method\ findMinMax\ finds\ the\ minimum\ and\ the\ maximum\ monthes.\ \r\n\ and\ the\ the\ correct\ instance\ varibels\ mintemp,and\ maxtemp\r\n\r\n\ @param\ arr\ A\ parameter\ is\ the\ current\ year\ to\ check\r\n
+comment3.params=arr1\ arr2
+comment3.target=void\ copyArray(int[],\ int[])
+comment3.text=\r\n\ Method\ copyArray\ is\ the\ method\ to\ copy\ a\ specific\ year\ to\ the\ defualt\ array\r\n\r\n\ @param\ arr1\ A\ parameter\ the\ destnion\ array\r\n\ @param\ arr2\ A\ parameter\ the\ source\ array\r\n
+comment4.params=
+comment4.target=void\ clearScreen()
+comment4.text=\r\n\ Method\ clearScreen\ clear\ the\ destntion\ array\r\n\r\n
+numComments=5

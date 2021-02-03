@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameManeger()
+comment0.text=\r\n\ GameManeger\ Constructor\ to\ Initialize\ all\ the\ instance\ variabels\r\n\ the\ Constructor\ also\ build\ the\ frame\ and\ add\ all\ the\ components\ and\ listeners\r\n\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Method\ paintComponent\ is\ the\ method\ that\ print\ and\ draw\ to\ the\ frame\r\n\r\n\ @param\ g\ A\ parameter\r\n
+numComments=2
